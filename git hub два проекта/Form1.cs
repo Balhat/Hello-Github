@@ -19,7 +19,7 @@ namespace git_hub_два_проекта
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            textBox1.Text = "World!";
         }
     }
 }
