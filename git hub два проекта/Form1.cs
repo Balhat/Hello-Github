@@ -16,5 +16,10 @@ namespace git_hub_два_проекта
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
